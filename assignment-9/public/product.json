@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/n1mc1DW/Philips-M3001-A-MMS-Module.jpg",
+        "card_title": "Philips NIBP Pump Assembly (Monitor & Module)",
+        
+        "description": "The term refers to a component used in medical devices specifically in Non-Invasive Blood Pressure (NIBP) monitors produced by Philips, a well-known medical equipment manufacturer. NIBP monitors are used to measure a patient's blood pressure without the need for invasive procedures.",
+        "price": 290.00,
+        "get_quote": "Get A Quote"
+      },
+      {
+        "id": "2",
+        "image": "https://i.ibb.co/8sxKrg0/Philips-MX40-TRx-Telemetry-Transmitter.jpg",
+        "card_title": "Philips MX40 TRx Telemetry Transmitter",
+
+        "description": "A telemetry transmitter, in the context of healthcare and medical monitoring, is a device used to transmit data wirelessly from medical sensors to a remote receiver or monitoring station. This technology allows healthcare professionals to monitor patients' vital signs and other important health data remotely, providing real-time information about the patient's condition.",
+        "price": 320.00,
+        "get_quote": "Get A Quote"
+        
+      },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/kXvBr19/Philips-M3015-A-CO2-Module.jpg",
+        "card_title": "Mindray MPM Module",
+
+        "description": "As of my last update in September 2021, I don't have specific information on the Mindray MPM Module. However, I can provide some general context based on the naming conventions used in the medical device industry.",
+        "price": 290.00,
+        "get_quote": "Get A Quote"
+      },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/s3Cs7j3/GE-Tram-Module.jpg",
+        "card_title": "GE Tram Module",
+
+        "description": "The GE Tram Module is a component of the Tram Modular System, which is a comprehensive patient monitoring solution developed by GE Healthcare. This system is designed for use in hospital and clinical settings to monitor patients",
+        "price": 300.00,
+        "get_quote": "Get A Quote"
+      },
+    {
+        "id": "5",
+        "image": "https://i.ibb.co/6ysTjSW/Philips-M4841-A-Telemetry-Transmitter.jpg",
+        "card_title": "Datex Ohmeda M-PRESTN Module",
+
+        "description": "Refurbished and ready for patient use, one GE Datex-Ohmeda M-PRESTN module. This module features NiBP, SpO2, ECG, 2 temperature, and 2 pressure parameters. This module was cleaned, tested, and refurbished by our trained technicians! Backed by our 12 month warranty and our unparalleled customer service!",
+        "price": 350.00,
+        "get_quote": "Get A Quote"
+      },
+    {
+        "id": "6",
+        "image": "https://i.ibb.co/Vpv0mGF/Mindray-MPM-Module.png",
+        "card_title": "Datex Ohmeda E-PRESTN Module",
+
+        "description": "Refurbished and ready for patient use, one GE Datex-Ohmeda E-PRESTN  Module. This unit has been tested, refurbished, and cleaned by our trained technicians and is backed by our 12 month warranty! Please contact us with any questions that you may have!",
+        "price": 330.00,
+        "get_quote": "Get A Quote"
+      }
+]

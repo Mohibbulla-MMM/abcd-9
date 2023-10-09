@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/Vvhn0rm/Rectangle-44.png",
+        "card_title": "Authorized service by certified technicians who can repair a wide range of medical equipment.",
+        
+        "description": "It sounds like you want authorized services by technicians who can repair various medical equipment. Repairing medical equipment requires proper administration and technology. Here are some suggestions that may help you find such services:",
+        "price": 290.00,
+        "view_details": "View Details",
+        "bg_color": "#0052ff26",
+        "title_color": "#FFFFFF",
+        "btn_bg_color": "#0052FF",
+        "title_bg_color": "#0052ff33"
+      },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/GpYC3mc/Rectangle-49.png",
+        "card_title": "Authorized service by certified technicians who can repair a wide range of medical equipment.",
+        "description": "It sounds like you want authorized services by technicians who can repair various medical equipment. Repairing medical equipment requires proper administration and technology. Here are some suggestions that may help you find such services:",
+        "price": 320.00,
+        "view_details": "View Details",
+        "bg_color": "#0052ff26",
+        "title_color": "#FFFFFF",
+        "btn_bg_color": "#0052FF",
+        "title_bg_color": "#0052ff33"
+      },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/Qr3bZWZ/Rectangle-46.png",
+        "card_title": "Authorized service by certified technicians who can repair a wide range of medical equipment.",
+        "description": "It sounds like you want authorized services by technicians who can repair various medical equipment. Repairing medical equipment requires proper administration and technology. Here are some suggestions that may help you find such services:",
+        "price": 290.00,
+        "view_details": "View Details",
+        "bg_color": "#0052ff26",
+        "title_color": "#FFFFFF",
+        "btn_bg_color": "#0052FF",
+        "title_bg_color": "#0052ff33"
+      },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/BfbDSrx/Rectangle-51.png",
+        "card_title": "Authorized service by certified technicians who can repair a wide range of medical equipment.",
+        "description": "It sounds like you want authorized services by technicians who can repair various medical equipment. Repairing medical equipment requires proper administration and technology. Here are some suggestions that may help you find such services:",
+        "price": 300.00,
+        "view_details": "View Details",
+        "bg_color": "#0052ff26",
+        "title_color": "#FFFFFF",
+        "btn_bg_color": "#0052FF",
+        "title_bg_color": "#0052ff33"
+      },
+    {
+        "id": "5",
+        "image": "https://i.ibb.co/Qr3bZWZ/Rectangle-46.png",
+        "card_title": "Authorized service by certified technicians who can repair a wide range of medical equipment.",
+        "description": "It sounds like you want authorized services by technicians who can repair various medical equipment. Repairing medical equipment requires proper administration and technology. Here are some suggestions that may help you find such services:",
+        "price": 350.00,
+        "view_details": "View Details",
+        "bg_color": "#0052ff26",
+        "title_color": "#FFFFFF",
+        "btn_bg_color": "#0052FF",
+        "title_bg_color": "#0052ff33"
+      },
+    {
+        "id": "6",
+        "image": "https://i.ibb.co/GpYC3mc/Rectangle-49.png",
+        "card_title": "Authorized service by certified technicians who can repair a wide range of medical equipment.",
+        "description": "It sounds like you want authorized services by technicians who can repair various medical equipment. Repairing medical equipment requires proper administration and technology. Here are some suggestions that may help you find such services:",
+        "price": 330.00,
+        "view_details": "View Details",
+        "bg_color": "#0052ff26",
+        "title_color": "#FFFFFF",
+        "btn_bg_color": "#0052FF",
+        "title_bg_color": "#0052ff33"
+      }
+]
